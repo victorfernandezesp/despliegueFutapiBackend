@@ -1,5 +1,4 @@
 { 
-    "versión" :  2 , 
     "compilaciones" :  [ 
       {  "src" :  "programme.py" ,  "uso" :  "@vercel/python"  } 
     ] , 
